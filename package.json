@@ -1,0 +1,36 @@
+{
+  "name": "comigo",
+  "version": "1.0.0",
+  "description": "Comigo is a modern, user-friendly app that helps you manage the items you don’t want to forget when leaving home.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuharremTozan/Comigo.git"
+  },
+  "keywords": [
+    "list management",
+    "personal lists",
+    "shared lists",
+    "ready-made lists",
+    "item tracking",
+    "checklist",
+    "real-time updates",
+    "user-friendly",
+    "productivity",
+    "organization",
+    "daily essentials",
+    "cross-off items",
+    "modern design",
+    "collaborative",
+    "home leaving assistant"
+  ],
+  "author": "Muharrem Tozan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MuharremTozan/Comigo/issues"
+  },
+  "homepage": "https://github.com/MuharremTozan/Comigo#readme"
+}
