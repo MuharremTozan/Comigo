@@ -32,5 +32,6 @@
   "bugs": {
     "url": "https://github.com/MuharremTozan/Comigo/issues"
   },
-  "homepage": "https://github.com/MuharremTozan/Comigo#readme"
+  "homepage": "https://github.com/MuharremTozan/Comigo#readme",
+  "type": "module"
 }
