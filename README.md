@@ -1,6 +1,6 @@
 # Comigo 👜
 
-![Comigo Logo](assets/logo/comigo_logo_wbG.png)
+<img src="assets/comigo_logo_wbG.png" alt="Comigo Logo" width="150">
 
 Comigo is a modern, user-friendly app that helps you manage the items you don’t want to forget when leaving home. With ready-made lists, personal lists, and shared lists, you can organize your daily life more efficiently.
 
