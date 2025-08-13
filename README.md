@@ -4,7 +4,6 @@
 
 Comigo is a modern, user-friendly app that helps you manage the items you don’t want to forget when leaving home. With ready-made lists, personal lists, and shared lists, you can organize your daily life more efficiently.
 
----
 
 ## Features ✨
 
@@ -14,7 +13,6 @@ Comigo is a modern, user-friendly app that helps you manage the items you don’
 - **Instant Check-Offs:** Mark items as taken and see at a glance what’s completed.  
 - **User-Friendly Interface:** Simple and modern design for quick and easy use.  
 
----
 
 ## Screenshots 🖼️
 
